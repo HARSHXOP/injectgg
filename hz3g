@@ -1,0 +1,5 @@
+gg.alert("harshz3gaming")
+gg.searchNumber("131,330;67,109,633")
+gg.getResults(9)
+gg.editAll("144387")
+gg.toast("Done!")
